@@ -85,8 +85,8 @@ Adventure Works sample dataset (Microsoft), organized as a star schema:
 
 ## 📁 Repository Files
 
-- `Excel_Project.xlsx`: complete workbook (data model, pivot tables, KPI cards and dashboard)
-- `dashboard.png`: dashboard preview
+- `EXCEL_ PROJECT_ADVENTURE WORKS.xlsx`: complete workbook (data model, pivot tables, KPI cards and dashboard)
+- `Excel_Dashboard image.jpg`: dashboard preview
 
 ## 🧠 Skills Demonstrated
 
