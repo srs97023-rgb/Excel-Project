@@ -90,6 +90,6 @@ Data cleaning • Data modeling (star schema) • Power Query • Pivot analysis
 
 ##Dashboard
 **🔗 Live Dashboard:** [View on Google Sheets]
-![Excel Dashboard]:(https://github.com/srs97023-rgb/Excel-Project/blob/main/Excel_Dashboard%20image.jpg)
+![Excel Dashboard](https://github.com/srs97023-rgb/Excel-Project/blob/main/Excel_Dashboard%20image.jpg)
 
 ![Excel interactive Dashboard]:https://github.com/srs97023-rgb/Excel-Project/blob/main/EXCEL_%20PROJECT_ADVENTURE%20WORKS.xlsx
