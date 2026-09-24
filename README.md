@@ -4,7 +4,7 @@
 An interactive Excel dashboard that analyzes **$29.4M in Adventure Works sales** across 5 years, 10 sales regions and 18,000+ customers. It turns 60,000+ sales transactions into clear KPIs on revenue, cost, profit, seasonality, top products, customers and regions.
 
 **🔗 Live Dashboard:** [View on Google Sheets]
-![Excel Dashboard]
+![Excel Dashboard]:https://github.com/srs97023-rgb/Excel-Project/blob/main/Excel_Dashboard%20image.jpg
 
 ---
 
