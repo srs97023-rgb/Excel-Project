@@ -88,7 +88,7 @@ Adventure Works sample dataset (Microsoft), organized as a star schema:
 
 Data cleaning • Data modeling (star schema) • Power Query • Pivot analysis • KPI design • Dashboard design • Business storytelling
 
-##Dashboard
+## 📊 Dashboard Image
 **🔗 Live Dashboard:** [View on Google Sheets]
 ![Excel Dashboard](https://github.com/srs97023-rgb/Excel-Project/blob/main/Excel_Dashboard%20image.jpg)
 
